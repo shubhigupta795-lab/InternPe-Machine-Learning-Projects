@@ -25,3 +25,23 @@ This repository contains the Machine Learning projects completed during my Inter
 ## Author
 
 Shubhi Gupta
+
+## Internship Duration
+
+8 June 2026 – 22 July 2026
+
+## Organization
+
+InternPe
+
+## Project Highlights
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Machine Learning
+- Regression
+- Classification
+- Natural Language Processing
+- Model Comparison
+- Data Visualization
